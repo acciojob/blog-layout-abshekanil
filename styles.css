@@ -20,6 +20,8 @@ body{
 h2{
 	text-align:center;
 }
-p{
-	text-align:center;
+ul>li{
+	
+	list-style-type:none;
+	margin:10px;
 }
